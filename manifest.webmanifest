@@ -1,7 +1,7 @@
 {
   "name": "Grypho",
   "short_name": "Grypho",
-  "description": "Allenamenti, U15 aggregati e report scouting per staff e giocatori",
+  "description": "Grypho App, creata da Tagup (tagup.it): allenamenti, impegni e report scouting per staff e giocatori",
   "lang": "it",
   "start_url": "./",
   "scope": "./",
